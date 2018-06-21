@@ -1,1 +1,2 @@
 # SharesDataBaseMS
+For this project my objective was to build an application that maintains a database of shares purchased/sold by a customer (a portfolio of investments). This application stores all the related information about the shares such as name, the date and time the shares were purchased or sold, purchase or sale price, share company information, overall performance and other pertinent information about the holdings. The system should be able to store, manage and facilitate access of the data. 
