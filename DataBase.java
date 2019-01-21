@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author Fatima Peygumbari 
- * STN# 500503954
+ * 
  */
 public class DataBase {
 
